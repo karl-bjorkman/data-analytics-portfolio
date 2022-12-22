@@ -36,5 +36,5 @@ with much promise and an eagerness to learn much more.
 
 Thank you for taking the time to look over this collection.
 
-Sincerely,
+Sincerely, \
 Karl Bjorkman

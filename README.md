@@ -27,8 +27,8 @@ but I love to learn and I look forward to learning more things throughout my lif
 
 Some of these projects come straight from the Codecademy catalogue. \
 Since I have not had any professional experience in this field, I thought \
-that Codecademy was a good place to start when it came learning to ask the \
-right questions and begin to play around with templates and datasets.
+that Codecademy was a good place to start when it came to learning to ask the \
+right questions and to begin to play around with templates and datasets.
 
 I hope that the skills I have learned amount to, if not the most \
 impressive portfolio, a collection that presents an aspiring data scientist \

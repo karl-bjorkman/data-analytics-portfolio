@@ -7,10 +7,10 @@
 
 ## NPI Project walkthrough:
 
-1. Read-in dataset
+1. Read-in dataset and examine first five rows
 2. Select four questions of interest for investigation
 3. Wrangle and clean dataset by removing most columns and renaming remaining ones
-4. Replace numberical tabular data with equivalent strings (i.e. 1 = 'yes', 2 = 'no')
+4. Replace numerical tabular data with equivalent strings (i.e. 1 = 'yes', 2 = 'no')
 5. Remove rows containing data that interferes with binary data
 6. Remainder of project investigates association (or lack thereof) of categorical variables
 
@@ -32,3 +32,12 @@
 8. Determine if there is an association between 'game_location' and 'game_result' using contingency tables and the Chi-Squared statistic (categorical variables)
 9. Calculate correlation between 'forecast' (franchise odds) and 'point_diff' (difference in total points) using Pearson Correlation and calculating a correlation coefficient (two quantitative variables)
 10. Display a scatterplot for both variables to visualize the linear association (should make sense given the correlation coefficient)
+
+### Tools used:
+
+* Mean difference
+* Overlapping histograms
+* Side-by-side boxplots
+* Scatterplots
+* Chi-Squared statistic (categorical variables)
+* Pearson Correlation (quantitative variables)

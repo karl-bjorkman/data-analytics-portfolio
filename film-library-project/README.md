@@ -2,7 +2,7 @@
 
 ## Why I created this application
 
-My favorite online platform for film content is called Letterboxd. The company is based in New Zealand and have provided what I believe to be the most polished social media site and film log for cinephiles. However, there are a couple of functions that I do not believe the site offers its users:
+My favorite online platform for film content is called Letterboxd. The company is based in New Zealand and has provided what I believe to be the most polished social media site and film log for cinephiles. However, there are a couple of functions that I do not believe the site offers its users:
 
 1. Personalized movie recommendations by year, selected from a custom list (created by the user)
 2. An easy way to access the date when a user last saw a particular film (provided they logged this information on the platform)

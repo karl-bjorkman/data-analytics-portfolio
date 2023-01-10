@@ -18,7 +18,7 @@
 
 * Observed contingency tables
 * Expected contingency tables
-* Chi-Squared statistic (to establish correlation for categorical variables)
+* Chi-Square statistic (to establish correlation for categorical variables)
 
 ## NBA Trends Project walkthrough:
 
@@ -29,7 +29,7 @@
 5. Display overlapping histograms to visualize the spread of each teams' point totals
 6. Complete the same tasks (3-5) for the second year
 7. Visualize side-by-side boxplots comparing different franchises to their total points scored
-8. Determine if there is an association between 'game_location' and 'game_result' using contingency tables and the Chi-Squared statistic (categorical variables)
+8. Determine if there is an association between 'game_location' and 'game_result' using contingency tables and the Chi-Square statistic (categorical variables)
 9. Calculate correlation between 'forecast' (franchise odds) and 'point_diff' (difference in total points) using Pearson Correlation and calculating a correlation coefficient (two quantitative variables)
 10. Display a scatterplot for both variables to visualize the linear association (should make sense given the correlation coefficient)
 
@@ -39,5 +39,5 @@
 * Overlapping histograms
 * Side-by-side boxplots
 * Scatterplots
-* Chi-Squared statistic (categorical variables)
+* Chi-Square statistic (categorical variables)
 * Pearson Correlation (quantitative variables)

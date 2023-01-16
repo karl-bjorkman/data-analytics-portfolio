@@ -10,4 +10,4 @@
 
 ### This is the linear regression model that provides the best predictions
 
-> * This project is meant to reinforce the fundamentals of how a linear regression model works and is not meant to represent the most efficient way to find a line of best fit (as I'm sure there are libraries/packages that provide predefined functions)
+> \* This project is meant to reinforce the fundamentals of how a linear regression model works and is not meant to represent the most efficient way to find a line of best fit (as I'm sure there are libraries/packages that provide predefined functions)
